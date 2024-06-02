@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=deeefh)
-![](https://komarev.com/ghpvc/?username=deeefh&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=deeefh&color=brightgreen&style=plastic)
 
 <!--
 **deeefh/deeefh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
