@@ -14,4 +14,4 @@ const Hung = {
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{deeefh}/count.svg" alt="deeefh :: Visitor's Count" /></p>
-<img src="<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
