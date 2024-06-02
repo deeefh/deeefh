@@ -1,3 +1,18 @@
+const Hung = {
+  pronouns: "he" | "him",
+  code: [C++, Python],
+  <!--
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],->
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+  -->
+ challenge: "I am doing the #100DaysOfCode challenge focused on competitive programming"
+}
+
 ![](https://komarev.com/ghpvc/?username=deeefh&color=brightgreen&style=plastic)
 
 <!--
