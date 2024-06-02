@@ -20,7 +20,8 @@ const Hung = {
 <p align="left">
   
 <!-- <a href="https://twitter.com/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a> -->
-  
-<a href="https://www.linkedin.com/in/deeefh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deeefh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/deeefh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="deeefh" height="30" width="40" /></a>
+</p>  
 <a href="https://instagram.com/deeefht" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="deeefh" height="30" width="40" /></a>
 </p>
+<a href="https://www.linkedin.com/in/deeefh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deeefh" height="30" width="40" /></a>
