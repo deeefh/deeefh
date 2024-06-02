@@ -15,3 +15,12 @@ const Hung = {
 
 <p align="center"><img src="https://profile-counter.glitch.me/{deeefh}/count.svg" alt="deeefh :: Visitor's Count" /></p>
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+<!-- <a href="https://twitter.com/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a> -->
+  
+<a href="https://www.linkedin.com/in/deeefh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://instagram.com/deeefht" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+</p>
