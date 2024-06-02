@@ -4,7 +4,7 @@
 ```javascript
 const Hung = {
   pronouns: "he" | "him",
-  code: [C++, Python],
+  code: [C++, Python, Javalorant],
   
   challenge: "I am doing the #100DaysOfCode challenge focused on competitive programming"
 }
