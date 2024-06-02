@@ -1,5 +1,5 @@
 <h2> Hi, I'm Hung Tran! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.pinimg.com/originals/56/ad/2c/56ad2c43bf5021957a57547eb7baad9b.gif" width="240" height="145">
+<img align='right' src="https://i.pinimg.com/originals/56/ad/2c/56ad2c43bf5021957a57547eb7baad9b.gif" width="240" height="140">
 
 ```javascript
 const Hung = {
