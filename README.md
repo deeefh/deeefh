@@ -1,12 +1,12 @@
 <h2> Hi, I'm Hung Tran! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.pinimg.com/originals/56/ad/2c/56ad2c43bf5021957a57547eb7baad9b.gif" width="240" height="150">
+<img align='right' src="https://i.pinimg.com/originals/56/ad/2c/56ad2c43bf5021957a57547eb7baad9b.gif" width="240" height="130">
 
 ```javascript
 const Hung = {
   pronouns: "he" | "him",
   code: [C++, Python, Javalorant],
   
-  challenge: "I am doing the #100DaysOfCode challenge focused on cp"
+  challenge: "I am doing the #100DaysOfCode challenge focused on CP"
 }
 ```
 
